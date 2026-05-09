@@ -40,7 +40,6 @@
     <th>Operating Systems</th>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white"/>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
     </td>
   </tr>
@@ -53,10 +52,6 @@
 ### LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vedant_verma786?theme=dark&font=Roboto)](https://leetcode.com/vedant_verma786)
-
-### GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantvermajsx&layout=compact&theme=tokyonight)
 
 ---
 
